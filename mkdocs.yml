@@ -98,17 +98,14 @@ plugins:
         - "install_usage/**"
 
 hooks:
-  - hooks/expiry.py
-  - hooks/change_copyright.py
-  - hooks/link.py
+  - docs/hooks/expiry.py
+  - docs/hooks/change_copyright.py
+  - docs/hooks/link.py
 
 extra_css:
   - stylesheets/extra.css
   - stylesheets/font.css
 
-link_pages:
-  - changelog/*.md
-  - faq/*.md
 
 extra:
   social:
