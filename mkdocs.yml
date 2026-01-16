@@ -14,7 +14,7 @@ edit_uri: https://github.com/RapidAI/RapidRAG/tree/main/docs
 theme:
   name: material
   # logo: /static/images/favicon-lightning.svg
-  favicon: ./static/images/material_file_search.svg
+  favicon: ./static/images/material-file-search.svg
   language: zh
   custom_dir: docs/overrides
   features:
