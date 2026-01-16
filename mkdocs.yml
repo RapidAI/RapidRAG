@@ -58,7 +58,7 @@ theme:
         name: 暗黑主题
 
   icon:
-    logo: material/file/search
+    logo: material/file-search
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     repo: fontawesome/brands/github
